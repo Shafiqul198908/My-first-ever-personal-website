@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.half{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding: 2%;
+}
+.pink-highlight{
+    color: hotpink;
+}
+.link-btn{
+    text-decoration: none;
+    padding: 5px 15px;
+    background-color: hotpink;
+    color: white;
+    border-radius: 5px;
+}
+.link-btn:hover{
+    background-color: rgb(122, 76, 99);
+}
+.half img{
+    width: 100%;
+}
+.first-sec{
+    background-image: url(Images/header-bg.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+.second-sec{
+    background-image: url(Images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.clear{
+    clear: both;
+}
+.working-sec{
+    text-align: center;
+    background-image: url(Images/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.working-sec img{
+    width: 25%;
+    margin: 2%;
+    margin-left: 4%;
+}
+.last-sec{
+
+}
+.colorless{
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    text-align: justify;
+}
+.heading-mini{
+    color: rgba(20, 20, 20, 0.555);
+}
+.pink-colored{
+    background-color: hotpink;
+    text-align: center;
+    padding: 35px;
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+.pink-colored:hover{
+    background-color: rgb(122, 76, 99);
+    color: white;
+}
+footer{
+    text-align: center;
+    margin: 30px;
+    font-size: small;
+}
